@@ -1,0 +1,40 @@
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Authentication Demo.exe
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Authentication Demo.deps.json
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Authentication Demo.runtimeconfig.json
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Authentication Demo.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Authentication Demo.pdb
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.csproj.AssemblyReference.cache
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.AssemblyInfoInputs.cache
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.AssemblyInfo.cs
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.csproj.CoreCompileInputs.cache
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\staticwebassets\msbuild.Authentication Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication Demo.props
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication Demo.props
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication Demo.props
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\scopedcss\bundle\Authentication Demo.styles.css
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.csproj.CopyComplete
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\refint\Authentication Demo.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.pdb
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\Authentication Demo.genruntimeconfig.cache
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\obj\Debug\net6.0\ref\Authentication Demo.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rayya\Source\Repos\Rayyan-Asia\JWtAuthenticationDemo\Authentication Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

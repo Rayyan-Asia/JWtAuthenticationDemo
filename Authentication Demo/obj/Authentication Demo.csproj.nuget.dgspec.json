@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msi\\source\\repos\\Authentication Demo\\Authentication Demo\\Authentication Demo.csproj": {}
+    "C:\\Users\\rayya\\Source\\Repos\\Rayyan-Asia\\JWtAuthenticationDemo\\Authentication Demo\\Authentication Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msi\\source\\repos\\Authentication Demo\\Authentication Demo\\Authentication Demo.csproj": {
+    "C:\\Users\\rayya\\Source\\Repos\\Rayyan-Asia\\JWtAuthenticationDemo\\Authentication Demo\\Authentication Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Authentication Demo\\Authentication Demo\\Authentication Demo.csproj",
+        "projectUniqueName": "C:\\Users\\rayya\\Source\\Repos\\Rayyan-Asia\\JWtAuthenticationDemo\\Authentication Demo\\Authentication Demo.csproj",
         "projectName": "Authentication Demo",
-        "projectPath": "C:\\Users\\msi\\source\\repos\\Authentication Demo\\Authentication Demo\\Authentication Demo.csproj",
-        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msi\\source\\repos\\Authentication Demo\\Authentication Demo\\obj\\",
+        "projectPath": "C:\\Users\\rayya\\Source\\Repos\\Rayyan-Asia\\JWtAuthenticationDemo\\Authentication Demo\\Authentication Demo.csproj",
+        "packagesPath": "C:\\Users\\rayya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rayya\\Source\\Repos\\Rayyan-Asia\\JWtAuthenticationDemo\\Authentication Demo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rayya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,9 +40,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.30.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.1, )"
             }
           },
           "imports": [
@@ -67,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
